@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "http-proxy": "^1.12.0",
-    "node-http-proxy": "^0.2.3"
+    "node-http-proxy": "^0.2.3",
+    "pm2": "~0.15.10"
   }
 }
